@@ -157,8 +157,8 @@
 		<text name="md_lbl_genre">
             <pos>0.74 0.18</pos>
         </text>
-		<text name="md_lbl_genre">
-            <pos>0.74 0.18</pos>
+		<text name="md_genre">
+            <pos>0.75 0.20</pos>
         </text>
 		<text name="md_lbl_developer">
             <pos>0.74 0.24</pos>
