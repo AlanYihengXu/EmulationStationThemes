@@ -186,10 +186,9 @@
         </datetime>
 		<text name="md_lbl_rating, md_lbl_playcount, md_playcount">
 			<pos>1 1</pos>
-			<size>0.00 0.00</size>
 		</text>
 		<rating name="md_rating">
-			<size>0.00 0.00</size>
+			<pos>1 1</pos>
             <filledPath>./_inc/images/star_full.png</filledPath>
             <unfilledPath>./_inc/images/star_hollow.png</unfilledPath>
 		</rating>

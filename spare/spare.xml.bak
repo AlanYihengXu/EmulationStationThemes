@@ -185,7 +185,7 @@
             <pos>0.75 0.44</pos>
         </datetime>
 		<text name="md_lbl_rating, md_lbl_playcount, md_playcount">
-			<fontSize>0.00</fontSize>
+			<pos>1 1</pos>
 			<size>0.00 0.00</size>
 		</text>
 		<rating name="md_rating">
